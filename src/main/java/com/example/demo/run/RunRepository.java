@@ -8,7 +8,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.Assert;
-
 import com.example.demo.DemoApplication;
 
 @Repository
